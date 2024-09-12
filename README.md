@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @barkgoofball
-- 👀 I’m interested in education, economics, pop culture, watching TV, and all things food related
+- 👋 Hi, I’m @allanzylee
+- 👀 I’m interested in education, economics, running, watching reruns of Community, and all things food related
 - 🌱 I’m currently learning R
 
 
